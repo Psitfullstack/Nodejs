@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    margin: 20px;
+    list-style: none;
+}
+
+.container{
+    display: flex;
+}
